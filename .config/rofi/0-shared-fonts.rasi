@@ -1,0 +1,14 @@
+/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+/* Ja KooLit - Global rofi fonts */
+
+/* This is where you can change fonts and sizes */
+
+/*****-- Fonts Size and Font Size -----*****/
+configuration {
+font: "JetBrainsMono Nerd Font SemiBold 13, Noto Color Emoji 13";
+}
+
+/*****-- Elements Font Size -----*****/
+element-text {
+font: "JetBrainsMono Nerd Font SemiBold 11, Noto Color Emoji 11";
+}
